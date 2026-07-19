@@ -1,0 +1,10 @@
+tensorflow
+keras
+opencv-python-headless
+numpy
+pillow
+fastapi
+uvicorn
+python-multipart
+scikit-learn
+python-dotenv
