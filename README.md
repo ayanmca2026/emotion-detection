@@ -22,6 +22,8 @@ A production-ready, full-stack AI web application capable of detecting human fac
 - **Frontend**: Ready for deployment on Vercel. Vercel automatically detects the Vite framework. `vercel.json` is provided for rewrite rules.
 - **Backend**: Ready for deployment on Render using the provided `render.yaml` and `Procfile`.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ayanmca2026/emotion-detection)
+
 ## Setup Instructions
 
 ### Backend Setup
